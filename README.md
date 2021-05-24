@@ -1,8 +1,8 @@
 <p align="center">
-<img src=https://i.ibb.co/G7ps6Tg/20210502-134653.jpg" alt="20210103-132024" border="0">
+<img src=https://i.ibb.co/wrdMgWx/20210521-141142.jpg" alt="20210521-141142" border="0">
 </p>
 <p align="center">
-<a href="https://github.com/denisputraa">
+<a href="https://github.com/HilmySakti">
 </p>
 
 ## Things I Code With
@@ -15,7 +15,7 @@
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/dcode-denpa/dnsbot
+> git clone https://github.com/HilmySakti/dnsbot
 ```
 
 ```bash
@@ -29,24 +29,24 @@
 ```
 
 ### Edit File
-- [`setting.json`](https://github.com/denisputraa/dnsbot/blob/master/dns/setting.json#95)
+- [`setting.json`](https://github.com/HilmySakti/dnsbot/blob/master/dns/setting.json#95)
 ```json
 {
-"botName": "DNS-BOT",
-"ownerName": "デ ニ ス",
-"igName": "@denssptraa",
-"ytName": "Dcode-Denpa",
-"kontakName": "デ ニ ス 息 子",
-"kontakORG": "Owner Dns Bot",
+"botName": "SAGIRI BOT",
+"ownerName": "HilmySakti",
+"igName": "@HilmyShop.Official",
+"ytName": "HILMY GAMING 87",
+"kontakName": "HilmyKunz",
+"kontakORG": "Owner Sagiri",
 "grupLink": "https://bit.ly/3evYvqQ",
-"igLink": "https://bit.ly/3uxaF8A",
-"ytLink": "https://bit.ly/3he5QwU",
+"igLink": "https://instagram.com/HilmyShop.Official",
+"ytLink": "https://youtube.com/c/HILMYGAMING87",
 "vhtear": "APIKEY",
 "xteam": "APIKEY",
-"limitawal": "50",
+"limitawal": "9999",
 "memberlimit": "0",
-"cr": "dcode-denpa",
-"owner": "6285866295942"
+"cr": "Sagir Bot",
+"owner": "6281217779427"
 }
 ```
 
@@ -56,6 +56,6 @@
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
 ## Social Media
-* [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
+* [`YouTube`](https://youtube.com/c/HILMYGAMING87)
 * [`WhatsApp`](https://chat.whatsapp.com/CZ5eaZM1BeG7qoBN9jhbN4)
-* [`Instagram`](https://instagram.com/denssptraa)
+* [`Instagram`](https://instagram.com/HilmyShop.Official)
